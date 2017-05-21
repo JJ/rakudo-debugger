@@ -12,3 +12,10 @@ screen once you're in the debugger. You may also like to see:
 
 * Blog walkthrough: https://perl6advent.wordpress.com/2012/12/05/a-perl-6-debugger/
 * Video: http://electure-ms.studiumdigitale.uni-frankfurt.de/vod/clips/mako67J3Gj/flash.html
+
+## Install
+
+You can install it using zef or panda
+
+	zef install Debugger::UI::Commandline
+	
